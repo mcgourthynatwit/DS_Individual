@@ -1,0 +1,10 @@
+.env
+/data
+/2024
+/Raw_Data
+/tests
+/scrapers
+/.pytest_cache
+/__pycache__
+/ds
+fetch.py
